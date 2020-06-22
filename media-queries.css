@@ -58,6 +58,7 @@ nav {
 .header-img img {
     margin: 0 1em;
     width: 100%;
+    content: url("https://via.placeholder.com/150x150");
 }
 
 .main {
