@@ -73,7 +73,7 @@ footer {
  margin: 1.5em 1em 0;
 }
 
-@media screen and (min-width: 450px){
+@media screen and (min-width: 370px){
     .header-img img {
         content: url("https://via.placeholder.com/339x224");
     }
